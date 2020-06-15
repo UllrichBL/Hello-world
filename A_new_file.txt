@@ -4,3 +4,4 @@ Just to learn how to add it and how to change it.
 Looks good so far.
 
 I needed to update this file and it will go into the new branch.
+Now it is part of the master branch.
