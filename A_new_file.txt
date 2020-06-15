@@ -1,0 +1,4 @@
+This is a new file.
+Just to learn how to add it and how to change it.
+
+Looks good so far.
